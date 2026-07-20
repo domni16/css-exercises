@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-numbered {
+ background-color: rgb(240, 187, 192);
+ font-family: Verdana, DejaVuSans, sans-serif;
+}
+
+#second-el {
+ color: rgb(28, 107, 233);
+ font-size: 36px;
+}
+
+.odd-numbered.unique {
+ font-size: 24px;
+}
+
+#fourth-el {
+ background-color: rgb(142, 235, 177);
+ font-size: 24px;
+ font-weight: bold;
+}
