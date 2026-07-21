@@ -30,7 +30,7 @@ body {
 button {
   background: white;
   display: block;
-  margin-left: 105px;
+  margin: 0 auto;
   padding: 10px 30px;
   
 }
